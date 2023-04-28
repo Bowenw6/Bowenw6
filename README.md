@@ -18,4 +18,25 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">
-### Hi there 👋
+ Hi there 👋
+
+
+</p>
+
+🎉 **Welcome to my GitHub profile!**
+</h3>
+
+
+<br/>
+
+
+
+
+<h3 align="left">
+I'm big into data science of microbiology, especially in microbiome and transcriptional regulation.
+</p>
+Any inquiries regarding my publications or the code provided, please feel free to contact me via wangbowen6@126.com
+</h3>
+
+
+<img align="right" alt="jpg" src="?raw=true" width="500" height="320" />
