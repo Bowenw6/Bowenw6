@@ -17,14 +17,16 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center">
+<h3 align="center">
  Hi there 👋
 
 
 </p>
 
 🎉 **Welcome to my GitHub profile!**
-</h2>
+</h3>
+
+---
 
 
 <br/>
@@ -34,6 +36,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">
 I'm big into data science of microbiology, especially in microbiome and transcriptional regulation.
+</p>
+<br/>
+
+<img src="https://media.giphy.com/media/rgYPePbfAdTboSJsp1/giphy.gif" width="230px">
+
 </p>
 <br/>
 Any inquiries regarding my publications or the code provided, please feel free to contact me:
