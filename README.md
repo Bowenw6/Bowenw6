@@ -40,7 +40,8 @@ I'm big into data science of microbiology, especially in microbiome and transcri
 </p>
 <br/>
 
-<img src="https://media.giphy.com/media/rgYPePbfAdTboSJsp1/giphy.gif" width="230px">
+<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" height="100px">
+<img src="https://media.giphy.com/media/rgYPePbfAdTboSJsp1/giphy.gif" height="100px">
 
 </p>
 <br/>
