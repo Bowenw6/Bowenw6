@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-<img align="right" alt="jpg" src="Github_main_1.jpg?raw=true" width="400" height="400" />
+<img align="right" alt="jpg" src="Github_main_2.jpg?raw=true" width="400" height="400" />
 
 <h3 align="left">
 I'm big into data science of microbiology, especially in microbiome and transcriptional regulation.
