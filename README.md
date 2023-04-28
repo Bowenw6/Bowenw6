@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">
+<h2 align="center">
  Hi there 👋
 
 
 </p>
 
 🎉 **Welcome to my GitHub profile!**
-</h3>
+</h2>
 
 
 <br/>
@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 <h3 align="left">
 I'm big into data science of microbiology, especially in microbiome and transcriptional regulation.
 </p>
-Any inquiries regarding my publications or the code provided, please feel free to contact me via wangbowen6@126.com
+<br/>
+Any inquiries regarding my publications or the code provided, please feel free to contact me:
+</p>
+📫 wangbowen6@126.com
 </h3>
 
 
