@@ -54,7 +54,7 @@ Any inquiries regarding my publications or the code provided, please feel free t
 <br/>
 </p>
 
-© Bowen Wang 2023
+© Bowen Wang 2024
 
 
 
