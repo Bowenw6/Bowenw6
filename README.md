@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-</p>
+</h3>
 
 🎉 **Welcome to my GitHub profile!**
 </h3>
@@ -37,22 +37,22 @@ Here are some ideas to get you started:
 
 <h3 align="left">
 I'm big into data science of microbiology, especially in microbial ecology.
-</p>
+</h3>
 <br/>
 
 <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="100px" height="100px">
 <img src="https://media.giphy.com/media/rgYPePbfAdTboSJsp1/giphy.gif" height="100px">
 
-</p>
+</h3>
 <br/>
 Any inquiries regarding my publications or the code provided, please feel free to contact me:
 </p>
 📫 wangbowen6@126.com
 </h3>
 
-</p>
+</h3>
 <br/>
-</p>
+</h3>
 
 © Bowen Wang 2024
 
